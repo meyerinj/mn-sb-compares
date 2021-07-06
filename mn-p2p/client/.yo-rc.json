@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.github.jhipster.sample"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "client",
+    "packageName": "io.github.jhipster.sample",
+    "packageFolder": "io/github/jhipster/sample",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "jwtSecretKey": "YzIyZDYzZDU1YzgyNDA1M2M2ZGI5NzFmYTQ4MjhmMDhiZGY5ZDA3YWE0YzZlZTg2MzNmODQ0NDU3NTQ5NWZhM2RlOGZlZGE3M2NiYTc5MTk1ZWVmODQ2MjkxNDZlOTg1YjYyNTdjOTBiYzYyNDIyYTM3YmUxYmRkMzJmMTVhNzU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1625552701137,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-micronaut",
+        "version": "1.0.0"
+      }
+    ],
+    "enableTranslation": false,
+    "blueprints": [
+      {
+        "name": "generator-jhipster-micronaut",
+        "version": "1.0.0"
+      }
+    ]
+  }
+}
