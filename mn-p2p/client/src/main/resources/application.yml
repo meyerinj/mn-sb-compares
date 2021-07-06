@@ -94,6 +94,7 @@ micronaut:
       type: fixed
       nThreads: 10
   server:
+    port: 8081
     # By default CORS is disabled. Uncomment to enable.
     # cors:
     #   enabled: true
